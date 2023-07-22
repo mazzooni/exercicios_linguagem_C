@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689981612 source:c:\temp\ws-cb\terreno\main.c
+	<stdio.h>
+	<stdlib.h>
+
